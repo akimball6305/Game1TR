@@ -73,3 +73,5 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Builds
+Content/Survival_Character/Textures/BackPack/T_Backpack_Normal.uasset
+Content/Survival_Character/Textures/Jacket/T_Jacket_Normal.uasset
